@@ -24,7 +24,7 @@ def pose_estimation(input_image):
     preprocessed_image = np.copy(input_image)
 
     # TODO: Preprocess the image for the pose estimation model
-    preprocessed_image = preprocessing(preprocessed_image, 256, 456 )
+    preprocessed_image = preprocessing(preprocessed_image, 256, 456)
 
     return preprocessed_image
 
