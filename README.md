@@ -7,7 +7,7 @@ This repository focuses on Edge AI using Intel® Distribution of OpenVINO™ Too
 
 ## 2. Leveraging Pre-trained Models
 
-``preprocess_input.py`  
+`preprocess_input.py`  
 `app.py` `handle_models.py`
 
 ```
