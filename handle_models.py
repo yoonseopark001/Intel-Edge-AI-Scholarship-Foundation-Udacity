@@ -58,7 +58,6 @@ def handle_output(model_type):
     else:
         return None
 
-
 '''
 The below function is carried over from the previous exercise.
 You just need to call it appropriately in `app.py` to preprocess
